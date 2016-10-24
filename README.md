@@ -14,3 +14,7 @@
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
 - [Slack](https://itunes.apple.com/in/app/slack/id803453959) - Messaging app for teams.
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse.
+
+## Command Line
+
+- [The Silver Searcher (ag)](https://github.com/ggreer/the_silver_searcher)
