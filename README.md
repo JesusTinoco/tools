@@ -15,6 +15,9 @@
 - [Slack](https://itunes.apple.com/in/app/slack/id803453959) - Messaging app for teams.
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse.
 
+## Atom plugins
+- [fuzzy-grep](https://atom.io/packages/atom-fuzzy-grep) - Silver search for atom
+
 ## Command Line
 
 - [The Silver Searcher (ag)](https://github.com/ggreer/the_silver_searcher)
