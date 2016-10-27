@@ -17,6 +17,7 @@
 
 ## Atom plugins
 - [fuzzy-grep](https://atom.io/packages/atom-fuzzy-grep) - Silver search for atom
+- [file-icons](https://atom.io/packages/file-icons) - Change the icons for each file extension
 
 ## Command Line
 
