@@ -14,6 +14,7 @@
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager.
 - [Slack](https://itunes.apple.com/in/app/slack/id803453959) - Messaging app for teams.
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse.
+- [Atom](https://atom.io/) - A hackable text editor.
 
 ## Atom plugins
 - [vim-mode](https://github.com/atom/vim-mode) - Vim bindings for atom
