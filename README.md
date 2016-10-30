@@ -23,6 +23,10 @@
 - [fuzzy-grep](https://atom.io/packages/atom-fuzzy-grep) - Silver search for atom
 - [file-icons](https://atom.io/packages/file-icons) - Change the icons for each file extension
 
+## Visual Studio Code plugins
+- [vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation for Visual Studio Code
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code.
+
 ## Command Line
 
 - [The Silver Searcher (ag)](https://github.com/ggreer/the_silver_searcher)
