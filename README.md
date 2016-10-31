@@ -28,6 +28,7 @@
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code.
 - [Go](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go) - Rich Go language support for Visual Studio Code
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - Provides Ruby language and debugging support for Visual Studio Code
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into Visual Studio Code
 
 ## Command Line
 
