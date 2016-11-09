@@ -8,6 +8,8 @@
 - [Wappalyzer](https://wappalyzer.com/download)
 - [Google Dictionary (by Google)](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 - [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Care your eyes, invert page colors, use dark theme for night and daily browsing.
 
 ## OS X Apps
 
