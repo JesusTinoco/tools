@@ -39,3 +39,4 @@
 ## Command Line
 
 - [The Silver Searcher (ag)](https://github.com/ggreer/the_silver_searcher)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
