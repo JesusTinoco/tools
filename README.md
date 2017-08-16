@@ -21,6 +21,7 @@
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse.
 - [Atom](https://atom.io/) - A hackable text editor.
 - [Visual Studio Code](http://code.visualstudio.com/) - A code editor optimized for building and cloud applications. 
+- [LICEcap](https://www.cockos.com/licecap/) - Simple animated screen captures
 
 ## Atom plugins
 - [vim-mode](https://github.com/atom/vim-mode) - Vim bindings for atom
